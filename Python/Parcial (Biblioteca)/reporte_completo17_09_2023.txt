@@ -1,0 +1,8 @@
+*******Listado de Autores registrados en el Sistema*******************.
+
+ID_AUTOR        COD_AUTOR  ID_LIBRO        COD_LIBRO  COD_CATEGORIA   NOMBRE_AUTOR    APELLIDO_PATERNO APELLIDO_MATERNO     TITULO               CATEGORIA           
+1               A001       1               L0025      C0058           ANDRE           SALDAÑA         TUCTO                DDDDDDDDDDDDD        SUSPENSO            
+1               A001       1               L0025      C0047           ANDRE           SALDAÑA         TUCTO                DDDDDDDDDDDDD        TERROR              
+1               A001       1               L0025      C0069           ANDRE           SALDAÑA         TUCTO                DDDDDDDDDDDDD        COMEDIA             
+1               A001       1               L0025      C0023           ANDRE           SALDAÑA         TUCTO                DDDDDDDDDDDDD        DRAMA               
+*************************************************.

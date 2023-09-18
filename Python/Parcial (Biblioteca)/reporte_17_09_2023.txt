@@ -1,0 +1,6 @@
+*******Listado de categoria registrados en el Sistema*******************.
+CODIGO: C0058, CATEGORIA: SUSPENSO
+CODIGO: C0047, CATEGORIA: TERROR
+CODIGO: C0069, CATEGORIA: COMEDIA
+CODIGO: C0023, CATEGORIA: DRAMA
+*************************************************.

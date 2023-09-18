@@ -1,0 +1,3 @@
+*******Listado de Autores registrados en el Sistema*******************.
+Datos del autor:  id_persona=1,codigo='P001', nombres='ANDRE',  apellidos='SALDAÑA TUCTO', fecha_nacimiento='10/01/03', ID: 1,el codigo del autor es: A001, pais='PERU', la editorial es: XDDXDXD
+*************************************************.

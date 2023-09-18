@@ -1,0 +1,4 @@
+*******Listado de Libros registrados en el Sistema*******************.
+codigo='L0025', titulo del libro: DDDDDDDDDDDDD, Año de publicacion: 2020, Tomo: TOMO 65
+codigo='L0058', titulo del libro: FFFFFFFFFFFFFFFFFFFFFF, Año de publicacion: 5623, Tomo: TOMO Y
+*************************************************.
